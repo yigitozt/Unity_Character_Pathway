@@ -1,7 +1,8 @@
 # Unity_Character_Pathway
 Character controller easy pathway drawing in editor.
 
-1- Add this two script to your project. Make sure "PeopleControlSetButton.cs" placed in "Editor" folder. /l
+1- Add this two script to your project. Make sure "PeopleControlSetButton.cs" placed in "Editor" folder. 
+
 2- Add "PedestrianControl.cs" to any character controller in the editor.
 3- Move and place your character controller and press "Set initial position" on the inspector.
 4- Move your character controller again to another position and press "Set position" on the inspector.
